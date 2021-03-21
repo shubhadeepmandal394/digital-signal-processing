@@ -6,3 +6,4 @@
 2. Linear convolution of two sequences using graphical methods and using commands and verification of the properties of convolution.
 3. Z-transform of various sequences and verification of the properties of Z-transform.
 4. Circular convolution of two sequences using graphical methods and using commands, comparison between linear and circular convolutions.
+5. Verification of the cyclic property of Twiddle Factors.
