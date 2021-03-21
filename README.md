@@ -8,3 +8,4 @@
 4. Circular convolution of two sequences using graphical methods and using commands, comparison between linear and circular convolutions.
 5. Verification of the cyclic property of Twiddle Factors.
 6. Computation of DFTs and IDFTs using matrix multiplication and also using commands.
+7. Verification of different algorithms associated with filtering of long data sequences: Overlap add and Overlap save methods.
