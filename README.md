@@ -1,4 +1,4 @@
-# Digital Signal Processing - MATLAB Codes
+# Digital Signal Processing - MATLAB Programs
 
 ### List of MATLAB Programs
 
